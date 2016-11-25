@@ -3,4 +3,4 @@ A friendly (or sometimes not so friendly) competition about who is the better pr
 
 Currently: Nadine-Python,Michael-C
 
-First task: Write a program that takes a list of integers and sorts them in descending order.
+#First task: Write a program that takes a list of integers and sorts them in descending order.
